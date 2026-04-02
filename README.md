@@ -1,6 +1,6 @@
 # 👋 Welcome to My Portfolio
 
-**Dhruv Yadav** | Electronics Engineer & IoT Security Enthusiast
+**Dhruv Sutariya** | Cyber Security Student
 
 ---
 
@@ -90,8 +90,9 @@ A comprehensive smart home security platform with advanced cybersecurity feature
 
 - **GitHub Profile:** https://github.com/dhruv13032004
 - **Smart Home Security:** https://github.com/dhruv13032004/smart-home-security
-- **Email:** your.email@example.com
-- **LinkedIn:** [Add your profile]
+- **Email:** sutariyad017@gmail.com
+- **LinkedIn:** www.linkedin.com/in/dhruv-sutariya-ba4061251
+
 
 ---
 
